@@ -1,0 +1,8 @@
+North,45000
+East,75000
+West,40000
+South,65000
+Central,52000
+Northeast,48000
+Southwest,81000
+Midwest,30000
